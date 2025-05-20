@@ -31,7 +31,7 @@ Estoy construyendo mi camino en el mundo tech. Me emociona todo lo que me espera
 
 ## 🧰 Tecnologías y herramientas favoritas
 
-![Tecnologías](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,azure,aws,gcp,mysql,jira,linux)
+![Tecnologías](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,azure,aws,gcp,mysql,linux)
 
 ---
 
