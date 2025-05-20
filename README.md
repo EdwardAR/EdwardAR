@@ -1,36 +1,36 @@
 # 👋 ¡Hola! Soy Edward Antonio Rivera
 
 🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
-🎯 Actualmente en camino a graduarme en **2025**, enfocado en crecer como profesional en el mundo de la tecnología.
+🎯 Actualmente en camino a graduarme en **2025**, con enfoque en **análisis e ingeniería de datos**, y una fuerte base en desarrollo y redes.
 
 ---
 
 ## 💼 Sobre mí
 
-🔧 **Perfil técnico con visión creativa**  
-Me apasiona la tecnología, especialmente el desarrollo de software, redes de datos y el diseño de soluciones eficientes. Siempre busco nuevas herramientas y enfoques para resolver problemas de forma innovadora.
+📊 **Apasionado por los datos y la tecnología**  
+Me especializo en comprender, procesar y transformar datos para generar valor. Me motiva descubrir patrones, optimizar procesos y construir soluciones inteligentes que ayuden a tomar decisiones informadas.
+
+🧠 **Perfil técnico con enfoque analítico**  
+Tengo experiencia en desarrollo de software, diseño de redes de datos y bases sólidas en procesamiento de información. Estoy orientado a roles como analista o ingeniero de datos, combinando lógica, curiosidad y precisión.
 
 📚 **Aprendiz constante**  
-Considero que cada desafío es una oportunidad para aprender. Me motiva mantenerme en evolución, explorando nuevas tecnologías y fortaleciendo mis habilidades día a día.
-
-🚀 **Motivado por los retos**  
-Disfruto participar en proyectos que impliquen planificación, análisis y ejecución, como el diseño de redes o la creación de aplicaciones. Me entusiasma trabajar en equipo y contribuir con ideas que sumen.
+Disfruto explorar herramientas y lenguajes usados en ciencia de datos, como Python, SQL, plataformas cloud y visualización de datos. Creo que el crecimiento profesional nace del aprendizaje continuo.
 
 ---
 
-## 🔥 ¿Qué me inspira?
+## 🚀 ¿Qué me mueve?
 
-💡 **Avanzar con propósito**  
-Más que ir rápido, creo en avanzar con claridad. Cada proyecto, cada línea de código, es un paso hacia un futuro profesional sólido y con impacto.
+💡 **Transformar datos en soluciones**  
+Más allá del código, me interesa cómo los datos pueden contar historias, optimizar decisiones y crear impacto real. Desde el backend hasta la capa analítica, cada línea y cada modelo suma.
 
 ✨ **Este es solo el comienzo**  
-Estoy construyendo mi camino con pasión, compromiso y muchas ganas de dejar huella en el mundo tech.
+Estoy construyendo un camino con propósito en el mundo de la ingeniería de datos. Me emociona todo lo que aún tengo por descubrir y aportar.
 
 ---
 
 ## 🧰 Tecnologías y herramientas que utilizo
 
-![Tecnologías](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,azure,aws,gcp,mysql,linux)
+![Tecnologías](https://skillicons.dev/icons?i=python,sql,java,html,css,javascript,github,azure,aws,gcp,mysql,linux)
 
 ---
 
