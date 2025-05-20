@@ -45,7 +45,7 @@ Estoy construyendo mi camino en el mundo tech. Me emociona todo lo que me espera
 ## 📫 ¿Quieres conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Rivera-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-antonio-rivera/)  
-[![Correo](https://img.shields.io/badge/Gmail-edward.rivera%40correo.com-red?style=for-the-badge&logo=gmail)](mailto:edwardantonio227@gmail.com)
+[![Correo](https://img.shields.io/badge/Gmail-edwardantonio227%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:edwardantonio227@gmail.com)
 
 ---
 
