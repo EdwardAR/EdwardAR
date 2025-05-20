@@ -1,6 +1,5 @@
 # 👋 ¡Hola, soy Edward Antonio Rivera!
 
-![Bienvenida animada](https://media.giphy.com/media/3o6ZsYZJ1g2Z9D93LO/giphy.gif)
 
 🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
 🎯 Apuntando a graduarme en **2025** y listo para conquistar el mundo de la tecnología. 🚀
