@@ -1,26 +1,59 @@
-# 👋 ¡Hola! Soy Edward Antonio Rivera
+# 👋 ¡Hola, soy Edward Antonio Rivera!
 
-¡Bienvenido a mi espacio en GitHub! 🎉 Soy estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)** y estoy trabajando para alcanzar mi meta de graduarme en **2025**. 🚀
+![Bienvenida animada](https://media.giphy.com/media/3o6ZsYZJ1g2Z9D93LO/giphy.gif)
 
----
-
-## 🌟 ¿Quién soy?
-
-💻 **Apasionado por la tecnología:** Me encanta explorar áreas como el desarrollo de software, redes de datos y el diseño de soluciones tecnológicas. Siempre estoy aprendiendo algo nuevo porque en este mundo, ¡la innovación nunca se detiene!
-
-🌱 **Curioso por naturaleza:** Cada día trae nuevos desafíos, pero también oportunidades para crecer. Aunque hay mucho por aprender, disfruto cada paso, sabiendo que incluso las pequeñas victorias cuentan.
-
-🎯 **Motivado por los retos:** Me apasiona trabajar en proyectos como el diseño de redes y la creación de aplicaciones web o de escritorio. Resolver problemas y aportar soluciones es lo que más me entusiasma.
+🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
+🎯 Apuntando a graduarme en **2025** y listo para conquistar el mundo de la tecnología. 🚀
 
 ---
 
-## 🚀 ¿Qué me inspira?
+## 🌟 Sobre mí
 
-💡 Creo que el progreso no se trata de llegar rápido, sino de avanzar con propósito. Cada línea de código y cada proyecto que completo me acercan a ser un mejor profesional.
+🧠 **Apasionado por la innovación:**  
+La tecnología es mi motor. Me gusta estar al día en desarrollo de software, redes de datos y diseño de soluciones prácticas.
 
-✨ Este es solo el inicio de mi viaje, y estoy emocionado por todo lo que está por venir.
+🔍 **Curioso incansable:**  
+Cada error, cada intento y cada acierto me acercan a ser un mejor profesional. Me gusta aprender constantemente porque sé que el conocimiento es poder.
+
+⚙️ **Amante de los retos:**  
+Me entusiasman los desafíos como diseñar redes complejas, crear aplicaciones web/escritorio, y trabajar en equipo para resolver problemas reales.
 
 ---
+
+## 🚀 ¿Qué me mueve?
+
+💡 **Crecer con propósito:**  
+Creo que el verdadero progreso no es ir rápido, sino avanzar con intención. Cada línea de código que escribo y cada solución que diseño me impulsan hacia adelante.
+
+✨ **Este solo es el comienzo:**  
+Estoy construyendo mi camino en el mundo tech. Me emociona todo lo que me espera en esta carrera llena de innovación y posibilidades.
+
+---
+
+## 🧰 Tecnologías y herramientas favoritas
+
+![Tecnologías](https://skillicons.dev/icons?i=java,python,html,css,javascript,react,netbeans,github,cisco&theme=light)
+
+---
+
+## 📈 Proyectos destacados
+
+➡️ [Diseño y simulación de red para una plataforma de streaming](https://github.com/tu_usuario/proyecto-streaming)  
+➡️ [Sistema de despacho de pedidos para pizzería](https://github.com/tu_usuario/proyecto-pizzeria)
+
+---
+
+## 📫 ¿Quieres conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Rivera-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)  
+[![Correo](https://img.shields.io/badge/Gmail-edward.rivera%40correo.com-red?style=for-the-badge&logo=gmail)](mailto:edward.rivera@correo.com)
+
+---
+
+> 🧭 *"No hay viento favorable para quien no sabe a dónde va."* – Séneca
+
+¡Gracias por visitar mi perfil! 🌐✨  
+
 
 
 
