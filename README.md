@@ -30,7 +30,7 @@ Estoy construyendo un camino con propósito en el mundo de la ingeniería de dat
 
 ## 🧰 Tecnologías y herramientas que utilizo
 
-![Tecnologías](https://skillicons.dev/icons?i=python,sql,java,html,css,javascript,github,azure,aws,gcp,mysql,linux)
+![Tecnologías](https://skillicons.dev/icons?i=python,java,html,css,javascript,github,azure,aws,gcp,mysql,linux,mysql)
 
 ---
 
