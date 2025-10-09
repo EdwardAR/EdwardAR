@@ -38,6 +38,12 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 ![Tecnologías](https://skillicons.dev/icons?i=python,java,html,css,javascript,github,azure,aws,gcp,mysql,linux)
 
 ---
+## 🧑‍💻 Badges
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/717b00de-0a8b-4ce6-a58a-60f47aa62ddb" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/12682c24-54d7-4c1b-b1ad-a984ec132e3c" />
+
+
+---
 
 ## 📢 Conecta conmigo
 
