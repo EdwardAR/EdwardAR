@@ -40,12 +40,9 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 ---
 ## 🧑‍💻 Badges
 <a href="https://www.credly.com/earner/earned/badge/f0b5b201-b981-481f-b40c-f81bf798a4d6" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/10421c1f-f9ad-407c-bc40-0eecfdee5007" />
-</a>
+  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/10421c1f-f9ad-407c-bc40-0eecfdee5007" />
 <a href="https://www.credly.com/earner/earned/share/1cea6cc7-26ff-4314-b73a-a3e5d517699c" target="_blank">
     ![Uploading image.png…]()
-
-</a>
 
 <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/12682c24-54d7-4c1b-b1ad-a984ec132e3c" />
 <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/bb6d222c-99ce-4857-bd6a-3d72a257f662" />
