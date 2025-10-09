@@ -45,8 +45,12 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6015fcc4-96bb-4b59-986b-b947e8ed1114" />
 <a href="https://www.credly.com/badges/b6ed6ff1-f754-48d4-ae6b-b0e40bc28db3" target="_blank">
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/40392c1e-3a5e-4415-bb3a-0d8a59112ede" />
-<a href="https://www.credly.com/badges/b6ed6ff1-f754-48d4-ae6b-b0e40bc28db3" target="_blank">
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/df9cc484-1c0a-4eac-a344-84acca87b0e1" />
+<a href="https://www.credly.com/badges/cb154ecf-b5a3-484c-8e3a-1448f2b8e5f6" target="_blank">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b1a31f6f-3896-4511-80ed-54651b4460c9" />
+<a href="https://www.credly.com/badges/2dda3c31-6859-4933-960d-fc67a9d011ac" target="_blank">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4e9cc32a-f8d2-4a97-806a-a3cf2ace7f95" />
+<a href="https://www.credly.com/badges/732f27e5-1126-4ede-9968-37f06374d7f5" target="_blank">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3f9da8b3-d6e6-4873-915c-62550d08946e" />
 <a href="https://www.credly.com/badges/da77b1fd-24f2-4265-8751-1d545871046f" target="_blank">
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/52716ec9-86b0-4d81-be67-0c1d68d51ded" />
 <a href="https://www.credly.com/badges/40a8d8aa-87b2-4940-b2ee-3f2bb7fac454" target="_blank">
