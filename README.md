@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3e5bdcec-5153-4310-8d17-cbcfaebf8970" alt="Banner GitHub" width="1000"/>
 </p>
+
 ---
 
 ## 💼 Sobre mí
