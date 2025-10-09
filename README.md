@@ -29,7 +29,7 @@ Disfruto explorar herramientas y lenguajes usados en ciencia de datos, como Pyth
 Más allá del código, me interesa cómo los datos pueden contar historias, optimizar decisiones y crear impacto real. Desde el backend hasta la capa analítica, cada línea y cada modelo suma.
 
 ✨ **Este es solo el comienzo**  
-Estoy construyendo un camino con propósito en el mundo de la ingeniería de datos. Me emociona todo lo que aún tengo por descubrir y aportar.
+Estoy construyendo un camino con propósito en el mundo de los datos. Me emociona todo lo que aún tengo por descubrir y aportar.
 
 ---
 
