@@ -40,19 +40,19 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 ---
 ## 🧑‍💻 Badges
 <a href="https://www.credly.com/earner/earned/badge/f0b5b201-b981-481f-b40c-f81bf798a4d6" target="_blank">
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/10421c1f-f9ad-407c-bc40-0eecfdee5007" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/10421c1f-f9ad-407c-bc40-0eecfdee5007" />
 <a href="https://www.credly.com/earner/earned/badge/1cea6cc7-26ff-4314-b73a-a3e5d517699c" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/6015fcc4-96bb-4b59-986b-b947e8ed1114" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6015fcc4-96bb-4b59-986b-b947e8ed1114" />
 <a href="https://www.credly.com/badges/b6ed6ff1-f754-48d4-ae6b-b0e40bc28db3" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/40392c1e-3a5e-4415-bb3a-0d8a59112ede" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/40392c1e-3a5e-4415-bb3a-0d8a59112ede" />
 <a href="https://www.credly.com/badges/b6ed6ff1-f754-48d4-ae6b-b0e40bc28db3" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/df9cc484-1c0a-4eac-a344-84acca87b0e1" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/df9cc484-1c0a-4eac-a344-84acca87b0e1" />
 <a href="https://www.credly.com/badges/da77b1fd-24f2-4265-8751-1d545871046f" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/52716ec9-86b0-4d81-be67-0c1d68d51ded" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/52716ec9-86b0-4d81-be67-0c1d68d51ded" />
 <a href="https://www.credly.com/badges/40a8d8aa-87b2-4940-b2ee-3f2bb7fac454" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/19b9f2d3-0061-4eee-a8a0-a4388babdd88" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/19b9f2d3-0061-4eee-a8a0-a4388babdd88" />
 <a href="https://www.credly.com/badges/c7823a1d-9dbb-4b6e-ad6e-646af5b2c7fc" target="_blank">
-  <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/90b5e355-e427-4885-ad6f-83df8913a661" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/90b5e355-e427-4885-ad6f-83df8913a661" />
   
 ---
 
