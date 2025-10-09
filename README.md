@@ -4,7 +4,11 @@
 🎯 Actualmente en camino a graduarme en **2025**, con enfoque en **análisis e ingeniería de datos**, y una fuerte base en desarrollo y redes.
 
 ---
-
+<p align="center">
+  <img src="<img width="1584" height="396" alt="Banner github" src="https://github.com/user-attachments/assets/3e5bdcec-5153-4310-8d17-cbcfaebf8970" />
+" alt="Descripción de la imagen" width="300"/>
+</p>
+---
 ## 💼 Sobre mí
 
 📊 **Apasionado por los datos y la tecnología**  
