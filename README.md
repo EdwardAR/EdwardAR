@@ -62,7 +62,7 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 
 ## 📢 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Rivera-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-antonio-rivera/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Antonio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-antonio-rivera/)  
 [![Correo](https://img.shields.io/badge/Gmail-edwardantonio227%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:edwardantonio227@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-Edward_Antonio-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@edwardantonio5771)
 
