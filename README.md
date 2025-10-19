@@ -38,6 +38,7 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 ![Tecnologías](https://skillicons.dev/icons?i=python,java,html,css,javascript,github,azure,aws,gcp,mysql,linux)
 
 ---
+
 ## 🧑‍💻 Badges
 
 <a href="https://www.credly.com/earner/earned/badge/f0b5b201-b981-481f-b40c-f81bf798a4d6">
@@ -60,6 +61,7 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/19b9f2d3-0061-4eee-a8a0-a4388babdd88"/>
 <a href="https://www.credly.com/badges/c7823a1d-9dbb-4b6e-ad6e-646af5b2c7fc">
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/90b5e355-e427-4885-ad6f-83df8913a661"/>
+
   
 ---
 
