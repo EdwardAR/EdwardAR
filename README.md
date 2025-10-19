@@ -46,7 +46,7 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/555a83a3-5bad-42d4-96c4-a16a54c26768" />
 <a href="https://www.credly.com/earner/earned/badge/1cea6cc7-26ff-4314-b73a-a3e5d517699c" target="blank">
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6015fcc4-96bb-4b59-986b-b947e8ed1114" />
-<a href="https://www.credly.com/badges/b6ed6ff1-f754-48d4-ae6b-b0e40bc28db3">
+<a href="https://www.credly.com/badges/b6ed6ff1-f754-48d4-ae6b-b0e40bc28db3"/>
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/40392c1e-3a5e-4415-bb3a-0d8a59112ede" />
 <a href="https://www.credly.com/badges/cb154ecf-b5a3-484c-8e3a-1448f2b8e5f6">
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b1a31f6f-3896-4511-80ed-54651b4460c9" />
