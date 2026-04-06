@@ -105,8 +105,8 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/732f27e5-1126-4ede-9968-37f06374d7f5" target="_blank">
-        <img width="150" height="150" alt="Google Cloud - Prepare Data for ML APIs on Google Cloud" src="https://github.com/user-attachments/assets/3f9da8b3-d6e6-4873-915c-62550d08946e"/>
+      <a href="https://www.credly.com/earner/earned/badge/3620b8a5-561f-4d7f-81fe-2ec154029572" target="_blank">
+        <img width="150" height="150" alt="LFS101: Introduction to Linux" src="https://github.com/user-attachments/assets/dd0c415a-2519-42fa-8f0d-b4eb3debe38d"/>
       </a>
     </td>
     <td align="center">
