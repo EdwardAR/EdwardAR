@@ -96,7 +96,6 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
       </a>
     </td>
   </tr>
-  #
     </tr>
     <tr>
     <td align="center">
@@ -112,16 +111,6 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
     <td align="center">
       <a href="https://www.credly.com/earner/earned/badge/cd1a97bd-6fc9-40be-b463-5e14df392ea5" target="_blank">
         <img width="150" height="150" alt="LFC108: Cybersecurity Essentials" src="https://github.com/user-attachments/assets/8cd7411d-f0f3-4457-a45a-67c85dcdee09"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/40a8d8aa-87b2-4940-b2ee-3f2bb7fac454" target="_blank">
-        <img width="150" height="150" alt="Cisco Learn-A-Thon 2024 Participant" src="https://github.com/user-attachments/assets/19b9f2d3-0061-4eee-a8a0-a4388babdd88"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/c7823a1d-9dbb-4b6e-ad6e-646af5b2c7fc" target="_blank">
-        <img width="150" height="150" alt="Cisco - CCNA Introduction to Networks" src="https://github.com/user-attachments/assets/90b5e355-e427-4885-ad6f-83df8913a661"/>
       </a>
     </td>
   </tr>
