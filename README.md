@@ -98,9 +98,14 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
   </tr>
     </tr>
     <tr>
-    <td align="center">
+        <td align="center">
       <a href="https://www.credly.com/earner/earned/badge/d56c0072-1c57-47de-96d2-7a2968cad291" target="_blank">
         <img width="150" height="150" alt="AWS Student Community Day Participant" src="https://images.credly.com/size/340x340/images/346dd316-2bda-4465-a6d8-537b3ffa2920/blob"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/29e18540-0c4d-4381-aa3f-4b96cc37caed" target="_blank">
+        <img width="150" height="150" alt="AWS re/Start Graduate" src="https://github.com/user-attachments/assets/51e04a70-b1f4-4db3-bde1-84ea0976a5aa"/>
       </a>
     </td>
     <td align="center">
