@@ -110,8 +110,8 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/da77b1fd-24f2-4265-8751-1d545871046f" target="_blank">
-        <img width="150" height="150" alt="Cisco Networking Academy - Introduction to Cybersecurity" src="https://github.com/user-attachments/assets/52716ec9-86b0-4d81-be67-0c1d68d51ded"/>
+      <a href="https://www.credly.com/earner/earned/badge/cd1a97bd-6fc9-40be-b463-5e14df392ea5" target="_blank">
+        <img width="150" height="150" alt="LFC108: Cybersecurity Essentials" src="https://github.com/user-attachments/assets/8cd7411d-f0f3-4457-a45a-67c85dcdee09"/>
       </a>
     </td>
     <td align="center">
