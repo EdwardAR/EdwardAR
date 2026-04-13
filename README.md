@@ -129,6 +129,11 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 [![Correo](https://img.shields.io/badge/Gmail-edwardantonio227%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:edwardantonio227@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-Edward_Antonio-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@edwardantonio5771)
 
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdwardAR&theme=dark&hide_border=true&border_radius=3.2&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 > 🧭 *"No hay viento favorable para quien no sabe a dónde va."* — Séneca
