@@ -3,9 +3,8 @@
 🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
 🎯 Actualmente en camino a graduarme a finales de **2026**, con enfoque en **análisis e ingeniería de datos**, y una fuerte base en desarrollo y redes.
 
----
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e5bdcec-5153-4310-8d17-cbcfaebf8970" alt="Banner GitHub" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/3e5bdcec-5153-4310-8d17-cbcfaebf8970" alt="Banner de perfil" width="1000"/>
 </p>
 
 ---
@@ -41,6 +40,7 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
 
 ## 🧑‍💻 Badges
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -120,20 +120,26 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## 📢 Redes Sociales
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Antonio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-antonio-rivera/)  
-[![Correo](https://img.shields.io/badge/Gmail-edwardantonio227%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:edwardantonio227@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Antonio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-antonio-rivera/)
+[![Correo](https://img.shields.io/badge/Gmail-edwardantonio227%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:edwardantonio227@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Edward_Antonio-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@edwardantonio5771)
 
+## Actividad en GitHub
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=EdwardAR&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
+</p>
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdwardAR&theme=dark&hide_border=true&border_radius=3.2&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
-> 🧭 *"No hay viento favorable para quien no sabe a dónde va."* — Séneca
+<p align="center">
+  🧭 <em>"No hay viento favorable para quien no sabe a dónde va."</em> — Séneca
+</p>
