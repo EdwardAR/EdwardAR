@@ -119,7 +119,7 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/cd1a97bd-6fc9-40be-b463-5e14df392ea5" target="_blank">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/BrayanEdwardAntonioRivera-6762/6B8B882DE795E4AF?sharingId=83080AF4257FB7E9" target="_blank">
         <img width="150" height="150" alt="GH-900" src="https://github.com/user-attachments/assets/19914be5-6989-4e4e-b745-24de0506d150"/>
       </a>
     </td>
