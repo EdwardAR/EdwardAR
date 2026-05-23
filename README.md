@@ -118,6 +118,11 @@ Estoy construyendo un camino con propósito en el mundo de los datos. Me emocion
         <img width="150" height="150" alt="LFC108: Cybersecurity Essentials" src="https://github.com/user-attachments/assets/8cd7411d-f0f3-4457-a45a-67c85dcdee09"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/cd1a97bd-6fc9-40be-b463-5e14df392ea5" target="_blank">
+        <img width="150" height="150" alt="LFC108: Cybersecurity Essentials" src="https://github.com/user-attachments/assets/8cd7411d-f0f3-4457-a45a-67c85dcdee09"/>
+      </a>
+    </td>
   </tr>
 </table>
 </div>
