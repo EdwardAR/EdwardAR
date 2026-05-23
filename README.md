@@ -3,10 +3,6 @@
 🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
 🎯 Actualmente en camino a graduarme a finales de **2026**, con enfoque en **análisis e ingeniería de datos**, y una fuerte base en desarrollo y redes.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3e5bdcec-5153-4310-8d17-cbcfaebf8970" alt="Banner de perfil" width="1000"/>
-</p>
-
 ---
 
 ## 💼 Sobre mí
