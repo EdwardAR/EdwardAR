@@ -1,30 +1,24 @@
-# 👋 ¡Hola! Soy Edward Antonio Rivera
+# 👋 Hola, soy Edward Antonio Rivera
 
-🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**.  
-🎯 Actualmente en camino a graduarme a finales de **2026**, con enfoque en **análisis e ingeniería de datos**, y una fuerte base en desarrollo y redes.
-
----
-
-## 💼 Sobre mí
-
-📊 **Apasionado por los datos y la tecnología**  
-Me especializo en comprender, procesar y transformar datos para generar valor. Me motiva descubrir patrones, optimizar procesos y construir soluciones inteligentes que ayuden a tomar decisiones informadas.
-
-🧠 **Perfil técnico con enfoque analítico**  
-Tengo experiencia en desarrollo de software, diseño de redes de datos y bases sólidas en procesamiento de información. Estoy orientado a roles como analista o ingeniero de datos, combinando lógica, curiosidad y precisión.
-
-📚 **Aprendiz constante**  
-Disfruto explorar herramientas y lenguajes usados en ciencia de datos, como Python, SQL, plataformas cloud y visualización de datos. Creo que el crecimiento profesional nace del aprendizaje continuo.
+🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **UTP**  
+💼 Actualmente desarrollándome en el área de **Infraestructura TI y soluciones tecnológicas**  
+📍 Interesado en Cloud, automatización, datos e inteligencia artificial
 
 ---
 
-## 🚀 ¿Qué me mueve?
+## 💡 Sobre mí
 
-💡 **Transformar datos en soluciones**  
-Más allá del código, me interesa cómo los datos pueden contar historias, optimizar decisiones y crear impacto real. Desde el backend hasta la capa analítica, cada línea y cada modelo suma.
+Me gusta trabajar en entornos donde la tecnología tenga impacto real en la operación y mejora de procesos.
 
-✨ **Este es solo el comienzo**  
-Estoy construyendo un camino con propósito en el mundo de los datos. Me emociona todo lo que aún tengo por descubrir y aportar.
+Actualmente estoy fortaleciendo experiencia en:
+
+- 🖥️ Infraestructura TI
+- ☁️ Cloud & virtualización
+- 🔐 Redes y soporte tecnológico
+- 📊 Análisis e ingeniería de datos
+- 🧠 Automatización e IA aplicada
+
+Tengo un perfil orientado tanto a la parte técnica como analítica, combinando infraestructura, desarrollo y soluciones basadas en datos.
 
 ---
 
