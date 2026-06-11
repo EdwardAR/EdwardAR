@@ -137,7 +137,7 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 
 <div align="center">
   
-![snake gif](https://github.com/EdwardAR/EdwardAR/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/EdwardAR/EdwardAR/blob/output/github-snake.svg)
 
 </div>
 
