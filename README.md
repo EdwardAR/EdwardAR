@@ -114,6 +114,13 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
       </a>
     </td>
   </tr>
+    <tr>
+  <td align="center">
+      <a href="https://www.credly.com/badges/9d0b1cb4-5f50-483f-995d-d8c01fd8dd85" target="_blank">
+        <img width="150" height="150" alt="AI SKILL FESTIVAL" src="https://github.com/user-attachments/assets/89672264-bf12-4f32-81c6-01ff53c021f2" />
+      </a>
+    </td>
+  </tr>  
 </table>
 </div>
 
