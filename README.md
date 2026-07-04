@@ -153,14 +153,12 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 
 <div align="center">
   <a href="https://gitfut.com/EdwardAR">
-    <img src="https://gitfut.com/EdwardAR.png" alt="My GitFut Card" width="400">
+    <img src="https://gitfut.com/EdwardAR.png" width="250" />
   </a>
 </div>
 
 
-
 --
-
 
 <p align="center">
   🧭 <em>"No hay viento favorable para quien no sabe a dónde va."</em> — Séneca
