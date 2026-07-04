@@ -135,17 +135,17 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 ## Actividad en GitHub
 
 <div align="center">
-  
-![snake gif](https://github.com/EdwardAR/EdwardAR/blob/output/github-snake.svg)
-
+  <a href="https://gitfut.com/EdwardAR?country=pe">
+    <img src="https://gitfut.com/EdwardAR.png" width="250" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://gitfut.com/EdwardAR?country=pe">
-    <img src="https://gitfut.com/EdwardAR.png" width="250" />
-  </a>
+  
+![snake gif](https://github.com/EdwardAR/EdwardAR/blob/output/github-snake.svg)
+
 </div>
 
 ---
