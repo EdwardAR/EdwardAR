@@ -158,7 +158,7 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 </div>
 
 
---
+---
 
 <p align="center">
   🧭 <em>"No hay viento favorable para quien no sabe a dónde va."</em> — Séneca
