@@ -151,7 +151,9 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 ---
 
 <div align="center">
+  
 [![My GitFut card](https://gitfut.com/EdwardAR.png)](https://gitfut.com/EdwardAR)
+
 </div>
 
 --
