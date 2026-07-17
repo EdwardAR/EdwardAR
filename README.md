@@ -152,7 +152,6 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=EdwardAR&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D"/>
     [![GitHub Streak](https://streak-stats.demolab.com/EdwardAR=DenverCoder1)](https://git.io/streak-stats)
   </a>
 </p>
