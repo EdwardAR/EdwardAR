@@ -150,11 +150,11 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 
 ---
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=EdwardAR" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="./profile/streak.svg" alt="GitHub Streak" />
+    </a>
+</p>
 
 ---
 
