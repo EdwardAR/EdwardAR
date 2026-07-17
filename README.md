@@ -150,10 +150,7 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
 
 ---
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EdwardAR" alt="GitHub Streak" /></a>  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EdwardAR)](https://git.io/streak-stats)
 
 ---
 
