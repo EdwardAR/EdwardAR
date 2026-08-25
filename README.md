@@ -120,6 +120,11 @@ Tengo un perfil orientado tanto a la parte técnica como analítica, combinando 
         <img width="150" height="150" alt="AI SKILL FESTIVAL" src="https://github.com/user-attachments/assets/89672264-bf12-4f32-81c6-01ff53c021f2" />
       </a>
     </td>
+	<td align="center">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/BrayanEdwardAntonioRivera-6762/731AE00C5A213F61?sharingId=83080AF4257FB7E9" target="_blank">
+        <img width="150" height="150" alt="DP-900" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" />
+      </a>
+    </td>
   </tr>  
 </table>
 </div>
