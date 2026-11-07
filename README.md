@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Edward Antonio Rivera
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Infraestructura+TI+%7C+Cloud+%7C+Automatizaci%C3%B3n;Data+%7C+Inteligencia+Artificial;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Infraestructura+TI+%7C+Cloud+%7C+Automatizaci%C3%B3n;Data+%7C+IA+%7C+Cloud;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
