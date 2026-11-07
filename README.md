@@ -76,18 +76,6 @@ Mi perfil combina una visión **técnica y analítica**, integrando infraestruct
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=EdwardAR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="37%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EdwardAR&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Aprendiendo, construyendo y mejorando cada día
@@ -208,6 +196,16 @@ Mi perfil combina una visión **técnica y analítica**, integrando infraestruct
 [![YouTube](https://img.shields.io/badge/YouTube-Edward_Antonio-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@edwardantonio5771)
 
 ## Actividad en GitHub
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=EdwardAR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="37%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EdwardAR&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <div align="center">
   <a href="https://gitfut.com/EdwardAR?country=pe">
