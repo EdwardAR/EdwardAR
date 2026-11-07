@@ -80,9 +80,9 @@ Mi perfil combina una visión **técnica y analítica**, integrando infraestruct
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EdwardAR&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardAR&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
