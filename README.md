@@ -76,13 +76,13 @@ Mi perfil combina una visión **técnica y analítica**, integrando infraestruct
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EdwardAR&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=EdwardAR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardAR&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="37%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EdwardAR&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
