@@ -1,30 +1,100 @@
+<div align="center">
+
 # 👋 Hola, soy Edward Antonio Rivera
 
-🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **UTP**  
-💼 Actualmente desarrollándome en el área de **Infraestructura TI y soluciones tecnológicas**  
-📍 Interesado en Cloud, automatización, datos e inteligencia artificial
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Infraestructura+TI+%7C+Cloud+%7C+Automatizaci%C3%B3n;Data+%7C+Inteligencia+Artificial;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 💡 Sobre mí
+## 👨‍💻 Sobre mí
 
-Me gusta trabajar en entornos donde la tecnología tenga impacto real en la operación y mejora de procesos.
+🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**
 
-Actualmente estoy fortaleciendo experiencia en:
+💼 Enfocado en **Infraestructura TI, Cloud, automatización y soluciones tecnológicas**
 
-- 🖥️ Infraestructura TI
-- ☁️ Cloud & virtualización
-- 🔐 Redes y soporte tecnológico
-- 📊 Análisis e ingeniería de datos
-- 🧠 Automatización e IA aplicada
+🚀 Me interesa desarrollar soluciones que combinen **infraestructura, programación, datos e inteligencia artificial** para optimizar procesos y resolver problemas reales.
 
-Tengo un perfil orientado tanto a la parte técnica como analítica, combinando infraestructura, desarrollo y soluciones basadas en datos.
+Actualmente continúo fortaleciendo mis conocimientos y experiencia en:
+
+- 🖥️ **Infraestructura TI y administración de sistemas**
+- ☁️ **Cloud Computing y virtualización**
+- 🌐 **Redes y servicios tecnológicos**
+- 🐧 **Linux y automatización de tareas**
+- 📊 **Análisis e ingeniería de datos**
+- ⚙️ **Automatización de procesos**
+- 🧠 **Inteligencia Artificial aplicada**
+
+Mi perfil combina una visión **técnica y analítica**, integrando infraestructura, programación, automatización y datos para desarrollar soluciones tecnológicas eficientes y escalables.
 
 ---
 
-## 🧰 Tecnologías y herramientas que utilizo
+## 🧰 Tech Stack
 
-![Tecnologías](https://skillicons.dev/icons?i=python,java,html,css,javascript,github,azure,aws,gcp,mysql,linux)
+### 💻 Lenguajes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,github,git&theme=dark" />
+</p>
+
+### 🗄️ Bases de datos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+</p>
+
+### 🖥️ Sistemas & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vscode,powershell&theme=dark" />
+</p>
+
+---
+
+## ⚡ Áreas de interés
+
+<p align="center">
+
+`☁️ Cloud Computing`
+&nbsp;&nbsp;
+`🐧 Linux`
+&nbsp;&nbsp;
+`⚙️ Automation`
+&nbsp;&nbsp;
+`📊 Data Engineering`
+&nbsp;&nbsp;
+`🧠 Artificial Intelligence`
+
+</p>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Aprendiendo, construyendo y mejorando cada día
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+
+</div>
 
 ---
 
