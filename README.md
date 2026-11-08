@@ -26,7 +26,6 @@ Actualmente continúo fortaleciendo mis conocimientos y experiencia en:
 - ⚙️ **Automatización de procesos**
 - 🧠 **Inteligencia Artificial aplicada**
 
-Mi perfil combina una visión **técnica y analítica**, integrando infraestructura, programación, automatización y datos para desarrollar soluciones tecnológicas eficientes y escalables.
 
 ---
 
@@ -73,16 +72,6 @@ Mi perfil combina una visión **técnica y analítica**, integrando infraestruct
 `🧠 Artificial Intelligence`
 
 </p>
-
----
-
-<div align="center">
-
-### 🚀 Aprendiendo, construyendo y mejorando cada día
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
-
-</div>
 
 ---
 
